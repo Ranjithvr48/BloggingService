@@ -1,6 +1,6 @@
 # Project Name: Blogging Platform
 
-![Blogging Platform Logo](https://tse4.mm.bing.net/th?id=OIP.g_U9qq46tlzGLfUXCepJQAHaEM&pid=Api&P=0&h=180)![Api logo](https://tse3.mm.bing.net/th?id=OIP.3Dduvw7ioc7xnI8YVmFyFAHaEO&pid=Api&P=0&h=180)
+![Blogging Platform Logo](https://www.hudsonintegrated.com/pub/blogimages/20140305094710_blog49006_640.png)![Api logo](https://www.danielleskosky.com/wp-content/uploads/media-uploads/what-is-an-api/api-with-outlets.jpg)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -46,7 +46,7 @@ Blogging Platform is a backend project that aims to provide a robust and scalabl
 
 ## Installation
 
-1. Clone the repository from [GitHub link](https://github.com/Omkar6627/BlogPost.git).
+1. Clone the repository from [GitHub link](https://github.com/Ranjithvr48/BloggingService/tree/main/BloggingPlatform).
 2. Install Java JDK and Maven on your machine.
 3. Set up a MySQL database and configure the database connection in the application.properties file.
 4. Run the Maven build to compile the project.
@@ -92,5 +92,5 @@ We welcome contributions from the community.
 
 ## Contact
 
-For any questions or feedback related to this project, please reach out to [Omkar66527@gmail.com].
+For any questions or feedback related to this project, please reach out to [ranjithramu007@gmail.com].
 
